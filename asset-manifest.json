@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.941218a9.css",
+    "main.js": "/static/js/main.de689be7.js",
+    "static/js/453.3faecf1f.chunk.js": "/static/js/453.3faecf1f.chunk.js",
+    "static/media/avengers.png": "/static/media/avengers.58da1040f7752d10f227.png",
+    "static/media/r.png": "/static/media/r.63cced014e97f285cbce.png",
+    "static/media/image.png": "/static/media/image.886fa374eac287c8bec2.png",
+    "index.html": "/index.html",
+    "main.941218a9.css.map": "/static/css/main.941218a9.css.map",
+    "main.de689be7.js.map": "/static/js/main.de689be7.js.map",
+    "453.3faecf1f.chunk.js.map": "/static/js/453.3faecf1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.941218a9.css",
+    "static/js/main.de689be7.js"
+  ]
+}
