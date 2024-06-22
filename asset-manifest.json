@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tsengel-react/static/css/main.74c2b95d.css",
+    "main.js": "/tsengel-react/static/js/main.3350cd78.js",
+    "static/js/453.3faecf1f.chunk.js": "/tsengel-react/static/js/453.3faecf1f.chunk.js",
+    "index.html": "/tsengel-react/index.html",
+    "main.74c2b95d.css.map": "/tsengel-react/static/css/main.74c2b95d.css.map",
+    "main.3350cd78.js.map": "/tsengel-react/static/js/main.3350cd78.js.map",
+    "453.3faecf1f.chunk.js.map": "/tsengel-react/static/js/453.3faecf1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74c2b95d.css",
+    "static/js/main.3350cd78.js"
+  ]
+}
